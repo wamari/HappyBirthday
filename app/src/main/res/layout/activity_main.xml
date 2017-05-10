@@ -6,19 +6,21 @@
     android:layout_height="match_parent"
     tools:context="com.harlertechnologies.happybirthday.MainActivity">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/party"
+        />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Happy Birthday Yvonne!"
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
        />
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/party"
-        />
 
     <TextView
         android:layout_width="wrap_content"
@@ -28,6 +30,8 @@
         android:text="From, Eric"
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
+        android:textColor="@android:color/white"
+
         />
 
 </RelativeLayout>
