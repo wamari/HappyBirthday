@@ -11,7 +11,6 @@
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
         android:src="@drawable/party"
-
         />
 
     <TextView
@@ -21,8 +20,8 @@
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
-        android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
        />
 
     <TextView
