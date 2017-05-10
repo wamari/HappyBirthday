@@ -11,6 +11,7 @@
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
         android:src="@drawable/party"
+
         />
 
     <TextView
@@ -20,6 +21,8 @@
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
        />
 
     <TextView
@@ -31,7 +34,8 @@
         android:textSize="36sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
-
+        android:layout_marginRight="20sp"
+        android:layout_marginBottom="20dp"
         />
 
 </RelativeLayout>
