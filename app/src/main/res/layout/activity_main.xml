@@ -16,7 +16,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birthday, Yvonne!"
+        android:text="Happy Birthday, User!"
         android:textSize="32sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:text="From, Eric Wamari"
+        android:text="From, Eric"
         android:textSize="32sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
