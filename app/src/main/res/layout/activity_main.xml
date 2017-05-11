@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
-        android:text="From, Eric"
+        android:text="From, Eric Wamari"
         android:textSize="32sp"
         android:fontFamily="sans-serif-light"
         android:textColor="@android:color/white"
